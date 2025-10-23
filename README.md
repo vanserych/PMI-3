@@ -34,5 +34,5 @@
 ![ER-model](Картинки/Диетическая столовая ER-модель Хрулев И..png)
 
 ### Relational model:
-![REL-model](Картинки/РМ Хрулёв.png)
+![REL-model](https://github.com/vanserych/PMI-3/blob/b150c834a6888faad53bc71b047cc3bc039e5010/README.md)
 
