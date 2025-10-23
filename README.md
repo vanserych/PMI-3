@@ -1,4 +1,4 @@
-<h1 align="center">📊 БАЗЫ ДАННЫХ</h1>
+<h1 align="center">📊 Лабораторные по базам данных вариант 7</h1>
 
 <div align="center">
   
