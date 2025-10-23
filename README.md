@@ -29,5 +29,10 @@
 [Назад](#content)
 
 <h3 align="center">
-  Лабораторная работа №1
-</h3>
+
+### ER-model:
+![ER-model](Картинки/Диетическая столовая ER-модель Хрулев И..png)
+
+### Relational model:
+![REL-model](Картинки/РМ Хрулёв.png)
+
