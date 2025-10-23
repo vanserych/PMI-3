@@ -31,7 +31,7 @@
 <h3 align="center">
 
 ### ER-model:
-![ER-model](Картинки/Диетическая столовая ER-модель Хрулев И..png)
+![ER-model](https://github.com/vanserych/PMI-3/blob/8c9cddbf3a410c4cd2a14ec63bcf126128d51a4f/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/%D0%94%D0%B8%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%81%D1%82%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F%20ER-%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%20%D0%A5%D1%80%D1%83%D0%BB%D0%B5%D0%B2%20%D0%98..png)
 
 ### Relational model:
 ![REL-model](https://github.com/vanserych/PMI-3/blob/40f773fee537ba51e3ddf5f254f3b9c066ad4c69/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/%D0%A0%D0%9C%20%D0%A5%D1%80%D1%83%D0%BB%D1%91%D0%B2.png))
