@@ -203,7 +203,7 @@ CREATE TABLE Клиент_Диетические_предпочтения (
 ![Рисунок18](https://github.com/vanserych/PMI-3/blob/e16b4a2acb053203fdbbe3cc3614afa87bec210c/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/%D0%941.PNG)
 ![Рисунок19](https://github.com/vanserych/PMI-3/blob/e16b4a2acb053203fdbbe3cc3614afa87bec210c/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/%D0%942.PNG)
 
-# <a id="-lab2"></a><img src="https://github.com/user-attachments/assets/e080adec-6af7-4bd2-b232-d43cb37024ac" width="20" height="20"/> Lab2
+# <a id="-lab3"></a><img src="https://github.com/user-attachments/assets/e080adec-6af7-4bd2-b232-d43cb37024ac" width="20" height="20"/> Lab3
 <h1 align="center">📊 часть</h1>
 
 <h1 align="center">📊 часть 2</h1>
