@@ -210,4 +210,4 @@ https://github.com/vanserych/PMI-3/blob/344008daf3fbcf9a4e7975d43ef63dd5e103b2bc
 https://github.com/vanserych/PMI-3/blob/e32d2a0b310959d8c0df52c69fc4a2d6d3b57890/%D0%A5%D1%80%D1%83%D0%BB%D0%B5%D0%B2_%D0%9F%D0%9C%D0%98-32%D0%91%D0%9E%202.docx
 
 # <a id="-lab4"></a><img src="https://github.com/user-attachments/assets/e080adec-6af7-4bd2-b232-d43cb37024ac" width="20" height="20"/> Lab4
-https://github.com/vanserych/PMI 3/blob/a4b8912c8201fb20896f8fa7e9c9f9dac10af890/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%204%20%D0%B1%D0%B4.docx
+https://github.com/vanserych/PMI-3/blob/7c6a79b5bdbdb9f696064ad69d0ee9c804de4e7c/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%204%20%D0%B1%D0%B4.docx
